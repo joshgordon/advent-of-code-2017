@@ -6,5 +6,5 @@ Code should be organized as `username/N` where `N` is the 2 digit zero padded da
 
 
 ## Leaderboard
-![Leaderboard - updated automatically on every push](https://visionist-advent-of-code.s3.amazonaws.com/leaderboard.png?BREAKCACHEPLS)
+![Leaderboard - updated automatically at 40 past every hour](https://visionist-advent-of-code.s3.amazonaws.com/2017-leaderboard.png)
 
